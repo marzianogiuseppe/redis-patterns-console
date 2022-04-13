@@ -50,3 +50,4 @@ Furthermore, you can visit [_REDIS Patterns Cookbook repository_](https://github
 &nbsp;
 
 Maintained with ❤️ by [Acadevmy](https://www.acadevmy.it/intro)
+I ❤️ Orietta Berti, Iva Zanicchi and Mina
