@@ -51,4 +51,4 @@ Furthermore, you can visit [_REDIS Patterns Cookbook repository_](https://github
 
 Maintained with ❤️ by [Acadevmy](https://www.acadevmy.it/intro)
 
-I ❤️ Buddha
+I ❤️ Zeus
